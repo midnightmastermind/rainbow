@@ -24,10 +24,11 @@ class LandingPage extends Component {
           <div className="App-content">
               <div className="App-splashscreen">
               	<div className="App-welcomescreen">
-    				<h2>Welcome!</h2>
-   				 To JPoms.com
-    				<Button color="inherit" component={ Link } to="/about">enter</Button>
-    			</div>
+    				<h2>The Rainbow Connection</h2>
+   				 Coming Soon!
+    				{ /*<Button color="inherit" component={ Link } to="/about">enter</Button>
+    				*/}			
+				</div>
 			  </div>
           </div>
         </div>
